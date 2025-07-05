@@ -463,7 +463,7 @@ export default function HomePage() {
                 </li>
                 <li>
                   <Link
-                    href="/refund-policy"
+                    href="/terms#refund-policy"
                     className="hover:text-white transition-colors"
                   >
                     Refund Policy
