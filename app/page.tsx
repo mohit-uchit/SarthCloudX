@@ -56,7 +56,7 @@ Please provide payment details and setup instructions.
 `.trim();
 
   // Only encode once
-  const telegramUrl = `https://t.me/sarthcloudx_bot?text=${encodeURIComponent(
+  const telegramUrl = `https://t.me/darky_underrated?text=${encodeURIComponent(
     message,
   )}`;
   window.open(telegramUrl, '_blank');
